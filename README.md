@@ -68,6 +68,6 @@ Academic project focused on energy management simulation with sustainability con
 
 ## Contact
 
-LinkedIn: https://linkedin.com/in/your-link-here  
-Email: your-email@example.com  
-GitHub: https://github.com/your-username
+LinkedIn: www.linkedin.com/in/pedro-ribeiro-gesini-76ba7a397
+Email: ribeirogesinip@gmail.com
+GitHub: https://github.com/PedroGesini
