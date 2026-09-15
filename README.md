@@ -1,120 +1,82 @@
 # Pedro Ribeiro Gesini
 
-### Systems Development Student | Backend Developer
+### Backend Developer | Python | APIs | Automation
 
-Focused on **Backend Development, APIs, Automation, and System Integration**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-I work primarily with **Python**, building backend applications, automations, API integrations, and database-driven systems.
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<p align="center">
+  Backend Development • REST APIs • Automation • System Integration
+</p>
 
 ---
 
 ## About Me
 
-I am a Systems Development student focused on building practical and scalable software solutions.
+Computer Science student focused on **Backend Development, APIs, Automation and System Integration**.
 
-My main interests are **backend development, API development, process automation, system integrations, and software architecture**.
+I work primarily with **Python**, building backend applications, REST APIs, database-driven systems and integrations with external services.
 
-Through academic and personal projects, I have gained hands-on experience developing systems that integrate external services, databases, authentication mechanisms, APIs, and automated workflows.
+My projects involve authentication, databases, webhooks, APIs, automation and software architecture.
 
-I am continuously improving my skills and building projects focused on solving real-world problems.
-
----
-
-## Technologies
-
-### Programming Language
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-### Backend and APIs
-
-<p>
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="REST API" src="https://img.shields.io/badge/-REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
-  <img alt="Webhooks" src="https://img.shields.io/badge/-Webhooks-FF4F64?style=flat-square&logo=webhook&logoColor=white" />
-</p>
-
-### Databases
-
-<p>
-  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-### Authentication and Integrations
-
-<p>
-  <img alt="Google OAuth" src="https://img.shields.io/badge/-Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img alt="OAuth 2.0" src="https://img.shields.io/badge/-OAuth_2.0-3C4043?style=flat-square&logo=auth0&logoColor=white" />
-  <img alt="Google Calendar" src="https://img.shields.io/badge/-Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white" />
-  <img alt="Google Sheets" src="https://img.shields.io/badge/-Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
-</p>
-
-### Development Tools
-
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
+I am continuously improving my skills by building practical projects focused on solving real-world problems.
 
 ---
 
-## Core Competencies
+## Core Skills
 
-* Backend Development
-* REST API Development
-* API Integration
-* System Integration
-* Process Automation
-* Google OAuth Authentication
-* OAuth 2.0
-* Google API Integration
-* Webhooks
-* HTTP Requests
-* JSON Data Handling
-* Database Integration
-* Relational Database Modeling
-* SQL
-* CRUD Applications
-* Programming Logic
-* Data Structures
-* Git Version Control
-* API Testing and Debugging
+| Area           | Technologies                                |
+| -------------- | ------------------------------------------- |
+| Backend        | Python, FastAPI, Flask                      |
+| APIs           | REST API, HTTP, JSON, Webhooks              |
+| Databases      | SQLite, MySQL, SQL                          |
+| Authentication | OAuth 2.0, Google OAuth                     |
+| Integrations   | Google APIs, Google Calendar, Google Sheets |
+| Automation     | Python, Webhooks, API Integrations          |
+| Development    | Git, GitHub, VS Code, Postman, Docker       |
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Aurora Operational Control System
+## Aurora Operational Control System
 
-Operational control system focused on backend logic, system organization, automation, and integrations.
+Operational control system focused on backend logic, automation, integrations and data management.
 
-Main concepts:
+### Main Concepts
 
 * Backend architecture
-* System automation
 * API integrations
+* Authentication
+* Automation
 * Operational workflows
 * Data management
-* Authentication
 * Modular development
 
-**Repository:**
+**Repository**
+
 https://github.com/PedroGesini/Aurora-Operational-Control-System
 
 ---
 
-### Intelligent Veterinary Chatbot
+## Intelligent Veterinary Chatbot
 
-Automated WhatsApp chatbot designed to assist veterinary clinics and customers with appointment management.
+Automated WhatsApp chatbot designed to assist veterinary clinics with customer service and appointment management.
 
-Main features:
+### Main Features
 
 * Automated customer service
 * Appointment scheduling
@@ -123,57 +85,58 @@ Main features:
 * Webhook processing
 * Google Calendar API integration
 * Google Sheets API integration
-* Database management
+* SQLite database
 * Automated workflows
 * Human support handoff
 
-**Technologies**
+### Technologies
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img alt="Google Calendar" src="https://img.shields.io/badge/-Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white" />
-  <img alt="Google Sheets" src="https://img.shields.io/badge/-Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webhooks-FF4F64?style=flat-square" />
+  <img src="https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
 </p>
 
 ---
 
-### SIGIC - Intelligent Management System
+## SIGIC - Intelligent Management System
 
-System designed for module analysis and information organization.
+System designed for information analysis and organization.
 
-The project focuses on:
+### Concepts
 
 * Programming logic
 * Data structures
-* System organization
-* Modular development
 * Data processing
+* Modular development
+* System organization
 
 ---
 
-### Energy / Colony System Simulation
+## Energy / Colony System Simulation
 
 Academic system developed to simulate energy management and resource allocation in a colony environment.
 
-Main concepts explored:
+### Concepts
 
 * Energy management
-* Sustainability
-* System logic
 * Resource allocation
+* Sustainability
+* Algorithms
 * Data structures
-* Decision-making algorithms
+* System logic
 
 ---
 
-## Currently Learning
+# Currently Learning
 
 <p>
-  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="Software Architecture" src="https://img.shields.io/badge/-Software_Architecture-333333?style=flat-square" />
-  <img alt="Clean Code" src="https://img.shields.io/badge/-Clean_Code-000000?style=flat-square" />
-  <img alt="Design Patterns" src="https://img.shields.io/badge/-Design_Patterns-5C2D91?style=flat-square" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software_Architecture-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design_Patterns-5C2D91?style=for-the-badge" />
 </p>
 
 * Advanced Backend Development
@@ -186,25 +149,39 @@ Main concepts explored:
 
 ---
 
-## Goals
+# GitHub Statistics
 
-* Become a professional Backend Developer
-* Improve my knowledge of software architecture
-* Build scalable and secure APIs
-* Develop production-ready backend systems
-* Improve system integration skills
-* Build real-world portfolio projects
-* Continuously improve my knowledge of Python and backend technologies
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=PedroGesini&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGesini&layout=compact&theme=github_dark&hide_border=true"
+ height="165"
+/>
+
+</p>
 
 ---
 
-## Contact
+# Contact
 
-**LinkedIn**
-[www.linkedin.com/in/pedro-ribeiro-gesini-76ba7a397](http://www.linkedin.com/in/pedro-ribeiro-gesini-76ba7a397)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-ribeiro-gesini-76ba7a397">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-**Email**
-[ribeirogesinip@gmail.com](mailto:ribeirogesinip@gmail.com)
+  <a href="mailto:ribeirogesinip@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-**GitHub**
-https://github.com/PedroGesini
+  <a href="https://github.com/PedroGesini">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Building backend systems, APIs and integrations with Python.
+</p>
