@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=220&section=header&text=Pedro%20Ribeiro%20Gesini&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20APIs%20%E2%80%A2%20Automation%20%26%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,100:1F6FEB&height=220&section=header&text=Pedro%20Ribeiro%20Gesini&fontSize=46&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Backend%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20APIs%20%E2%80%A2%20Automation%20%26%20AI&descAlign=50&descAlignY=55&descSize=18&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+WhatsApp+bots+that+actually+ship;Python+%2B+APIs+%2B+AI+automation;Turning+CRMs+and+chat+into+working+systems" />
@@ -70,17 +70,6 @@ Appointment-scheduling chatbot adapted from the veterinary project for a dental 
 
 ---
 
-### 💳 AI-Powered Financial Customer Service (ISP)
-AI automation for the billing/financial department of an internet provider, integrating the company's CRM with its customer-service platform.
-- Generates Pix payment codes and resends open invoices automatically, including after hours
-- Detects completed payments and releases service holds automatically
-- Business-rule guardrails: sensitive requests (unlocks, renegotiation) are always routed to a human agent
-- Built a local testing harness to develop without depending on the live CRM API
-
-`Python` `AI Automation` `CRM Integration` `Webhooks`
-
----
-
 ### 🛠️ Technical Support Chatbot ("Enia")
 AI-driven technical support triage bot for internet-provider customers, handling common request flows conversationally.
 - Guided flows for connection drops, slow speed, address changes, ownership transfer and plan upgrades
@@ -135,7 +124,7 @@ Operational control system focused on backend logic, automation, integrations an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroGesini&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7C3AED&fire=22D3EE" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=PedroGesini&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=22D3EE" height="165" />
 </p>
 
 <p align="center">
@@ -144,12 +133,48 @@ Operational control system focused on backend logic, automation, integrations an
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="contribution graph snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroGesini/PedroGesini/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="contribution graph snake animation" src="https://raw.githubusercontent.com/PedroGesini/PedroGesini/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
-> 💡 The streak stats, trophies and snake animation need a one-time [GitHub Action setup](https://github.com/Platane/snk) to generate on your own repo — happy to walk you through it.
+> ⚠️ The snake above will only appear **after** you add the GitHub Action below to this same repo — it generates the file `output/github-contribution-grid-snake.svg` from your real contribution graph. Until then this line renders as a broken image, so either add the workflow now or delete this block temporarily.
+
+<details>
+<summary>📄 One-time setup: <code>.github/workflows/snake.yml</code></summary>
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: PedroGesini
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Commit this file in the `PedroGesini/PedroGesini` repo, run it once from the **Actions** tab (`workflow_dispatch`), and it creates an `output` branch with your real animated snake — matching the two `raw.githubusercontent.com/PedroGesini/PedroGesini/output/...` links above.
+</details>
 
 ---
 
