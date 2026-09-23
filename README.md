@@ -142,7 +142,7 @@ Operational control system focused on backend logic, automation, integrations an
 <details>
 <summary>One-time setup: <code>.github/workflows/snake.yml</code></summary>
 
-yaml
+```yaml
 name: Generate Snake
 on:
   schedule:
@@ -170,7 +170,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+```
 
 Commit this file in the `PedroGesini/PedroGesini` repo, run it once from the **Actions** tab (`workflow_dispatch`), and it creates an `output` branch with your real animated snake — matching the two `raw.githubusercontent.com/PedroGesini/PedroGesini/output/...` links above.
 </details>
